@@ -32,18 +32,16 @@ from plyer import notification
 import random
 
 #VARIABLES
+#User folder
 a = os.path.expanduser('~').replace('\\', '/')
 comd = 0
 exit = 0
 delte = 0
-t = time()
-tim = (ctime(t))
-usrnm = "anna"
-hostnm = "AnnaOS"
-passwd = "123"
+tim = (ctime(time()))
+
 #CHANGE THESE 
 chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
-visual = 'C:/Program Files/Microsoft VS Code/Code.exe', a + "/Documents/pytho/AnnaShell.py"
+visual = 'C:/Program Files/Microsoft VS Code/Code.exe'
 whatsapp = a + "/AppData/Local/WhatsApp/Whatsapp.exe"
 notepad = "C:/Program Files/Notepad++/notepad++.exe"
 explorer = "C:/Windows/explorer.exe"
@@ -88,24 +86,16 @@ def cmdhandling():
     comd = 0
     #exit = 0
     delte = 0
-    t = time()
-    tim = (ctime(t))
-    
-    hostnm = "AnnaOS"
-    passwd = "123"
+    tim = (ctime(time()))
     dir = os.getcwd()
     shrdir = dir.replace('\\', '/')
     shrtdir = "~"
     arch = 0
     
     with open(str(home) + 'username.txt') as un:
-        usrnm = un.read()
-        #print(usrnm)
 
     with open(str(home) + 'hostname.txt') as hn:
         hostnm = hn.read()
-        #print(hostnm)
-        #print(passwd)
 
     with open(str(home) + "quietstartup.txt") as qs:
         quietstartup = qs.read() 
@@ -118,6 +108,7 @@ def cmdhandling():
             comd = input("[" + str(usrnm) + "@" + str(hostnm) + " " + str(shrtdir) + "]$ ")
         elif ps2 == "simple":
             comd = input("> ")
+        #Wipe the root directory
         if comd == "sudo rm -rf /":
             print ("deleting all file.... \n")
             sleep(2)
@@ -127,75 +118,91 @@ def cmdhandling():
         if comd == "rm -rf /":
             print("rm: permission denied")
 
+        #Exit shell
         if comd == "exit":
             _ = os.system('cls')
             quit()
-
+            
+        #Clear screen
         if comd == "clear" or comd == "cl" or comd == 'l' or comd == '':
-            _ = os.system('cls')
-
+            _ = os.system('cls')    
+            
+        #Bad implementation of neofetch
         if comd == "neofetch":
             with open(str(home) + "neofetch.txt") as nf:
                 print(nf.read())
 
+        #Trollface
         if comd == "no":
             with open(str(home) + "troll.txt") as tr:
                 print(tr.read())
 
+        #Calculator
         if comd.startswith("calc"):
             if comd == "calc 9+10":
                 print(21)
             else:
                 print (str(eval(comd.replace('calc', ''))))
 
+        #Change username
         if comd == "username":
             usrnm = input("Enter new username: ")
             usn = open(str(home) + "username.txt", "w")
             usn.write(usrnm)
             usn.close()
 
-
+        #Change hostname
         if comd == "hostname":
             hostnm = input("Enter new hostname: ")
             hsn = open(str(home) + "hostname.txt", "w")
             hsn.write(hostnm)
             hsn.close()
 
+        #Change password
         if comd == "passwd":
             passwd = getpass.getpass(prompt = "Enter new password: ")
             psw = open(str(home) + "password.txt", "w")
             psw.write(passwd)
             psw.close()
 
+        
         if comd == "logout":
             login()
-
+        
+        #Print current time
         if comd == "time":
             print(str(tim))
 
+        #Run program
         if comd.startswith("run"):
             prog = comd.replace('run ','')
             if prog == "visual":
                 subprocess.call([visual])
 
-            if prog == "wapp":
+            elif prog == "wapp":
                 subprocess.call([whatsapp])
 
-            if prog == "npad":
+            elif prog == "npad":
                 subprocess.call([notepad])
 
-            if prog == "files":
+            elif prog == "files":
                 subprocess.call([explorer])
 
-            if prog == "music":
+            elif prog == "music":
                 subprocess.call([spotify])
             
-            if prog == "vim":
+            elif prog == "vim":
                 subprocess.call([vim])
 
-            if prog == "osu":
+            elif prog == "osu":
                 subprocess.call([osu])
-
+            else:
+                try:
+                    subprocess.call([prog])
+                except FileNotFoundError:
+                    print("Program not found")
+                
+        #QR Code generator. Takes the last item in your clipboard and converts it into a code, which is then copied to your clipboard.
         if comd == "qr":
             win32clipboard.OpenClipboard()
             url = win32clipboard.GetClipboardData()
@@ -211,6 +218,7 @@ def cmdhandling():
             win32clipboard.SetClipboardData(win32con.CF_DIB, data)
             win32clipboard.CloseClipboard()
 
+        #Change working directory
         if comd.startswith('cd'):
             if comd == 'cd':
                 os.chdir(a)
@@ -225,21 +233,25 @@ def cmdhandling():
                     finally:
                         print('Directory not found')
 
+        #Open webpage
         if comd.startswith("web"):
             address = comd.replace('web', '')
             #uncomment for internet explorer
             #webbrowser.open(address, new=2)
             webbrowser.get(chrome_path).open(address)
-
+        #Print working directory.
         if comd == "pwd":
             print(dir)
-
+            
+        #Hide working directory in full ps1
         if comd == "hwd":
             shrtdir = "~"
 
+        #Show working directory in full ps1    
         if comd == "swd":
             shrtdir = shrdir.replace('C:', '')
 
+        #List files in current working directory. Can list all files (ls), files of a certain type (ls exe) or all images, videos or music (ls vid/img/mus)
         if comd.startswith('ls') or comd.startswith('dir'):
             try:
                 if comd == 'ls' or comd == 'dir':
@@ -278,7 +290,7 @@ def cmdhandling():
 
 
 
-
+        #Open file in default application
         if comd.startswith('open '):
             file1 = comd.replace('open ', '')
             try:
@@ -286,10 +298,11 @@ def cmdhandling():
             except FileNotFoundError:
                 print("File not found") 
 
-
+        #Activate epic arch linux hacking mode! (Not complete)
         if comd == "archinstall":
             arch = 1
-
+        
+        #print time until new Amphibia & TOH episodes
         if comd == "m19":
             futuredate = datetime.strptime('Mar 19 2022  9:30', '%b %d %Y %H:%M')
             nowdate = datetime.now()
@@ -310,6 +323,7 @@ def cmdhandling():
             seconds2 = count2-days2*86400-hours2*3600-minutes2*60
             print("{} days {} hours {} minutes {} seconds left".format(days2, hours2, minutes2, seconds2))
 
+        #Search files in current working directory
         if comd.startswith("src"):
             search = comd.replace('src ', '')
             ls = os.listdir(dir)
@@ -317,6 +331,7 @@ def cmdhandling():
                 if search in file:
                     print(file)
 
+        #Add/overwrite text into a file
         if comd.startswith("echo"):
             if '>>' in comd:
                 destination = input("Enter destination file: ")
@@ -335,6 +350,7 @@ def cmdhandling():
             if not '>>' in comd and not '-ovrw' in comd:
                 print (comd.replace('echo ', ''))
 
+        #Print contents of file
         if comd.startswith('cat'):
             source = comd.replace('cat ', '')
             try:
@@ -347,9 +363,10 @@ def cmdhandling():
             except UnicodeDecodeError:
                 print("No thanks")
 
+        #Tweet from custom Twitter For label (Add your own API keys)        
         if comd.startswith("tweet"):
-            auth = tweepy.OAuthHandler("bjdkMziuun0hmvYh6zDKMLtHz", "mSJeF47aL4K1oX0MHyuEgQJnrGdRYVN6fQwykuMvCHJUiUoUXu")
-            auth.set_access_token("1090967005967069184-vh2E0nmMYuhqv0ObE1qJDlw0xGqVnd", "WiNL5bOF8JhLY0LlnNEmOLb4n8wQ668TJK57KnimlMmC7")
+            auth = tweepy.OAuthHandler("", "")
+            auth.set_access_token("", "")
             api = tweepy.API(auth)
             if '-img' in comd: 
                 tweet = comd.replace('tweet -img ', '')
@@ -386,6 +403,7 @@ def cmdhandling():
         if comd.startswith('yt '):
             webbrowser.get(chrome_path).open('https://www.youtube.com/results?search_query=' + comd.replace('yt ', '').replace(' ', '+'))
 
+        #Print cool ascii text in terminal    
         if comd.startswith('ascii '):
             fontspath = str(home) + 'fonts.txt'
             if '-font' in comd:
@@ -404,11 +422,13 @@ def cmdhandling():
                 text = pyfiglet.figlet_format(comd.replace('ascii ', ''))
                 print(text)
 
+        #Where's goku???
         if 'goku' in comd:
             with open (str(home) + 'gonku.txt') as gku:
                 goku = gku.read()
                 print(goku)
         
+        #Don't say it
         if comd == "family guy is NOT funny":
             text = "So that's what you think huh?"
             for l in text:
@@ -494,6 +514,7 @@ def cmdhandling():
                 sleep(5)
                 os.system("shutdown -s -t 1")
 
+        #Several web shortcuts
         if comd == 'gub':
             webbrowser.get(chrome_path).open('github.com/anna-bannanna/anna-bannanna.github.io')
 
@@ -517,15 +538,12 @@ def cmdhandling():
             address = 'anna-bannanna.github.io/moviefree/t' + comd.replace('toh ', '').replace('s', 'S').replace('e', 'E')
             webbrowser.get(chrome_path).open(address)
 
-        #SET WALLPAPER
+        #Set wallpaper
         if comd.startswith('wp '):
             wp = str(shrdir) + '/' + comd.replace('wp ', '')
             SPI_SETDESKWALLPAPER = 0x14
             SPIF_UPDATEINIFILE   = 0x2
             ctypes.windll.user32.SystemParametersInfoW(SPI_SETDESKWALLPAPER, 0, wp, 0)
-
-        if comd == 'anrbx':
-            webbrowser.get(chrome_path).open('https://www.roblox.com/users/215609186/profile')
 
         #YOUTUBE VIDEO DOWNLOADER, 3 FOR AUDIO, 4 FOR VIDEO (Syntax: ytd 3/4 *link*)
         if comd.startswith("ytd 4 "):
@@ -561,6 +579,7 @@ def cmdhandling():
             os.rename(out_file, new_file)
             print(yt.title + " has been successfully downloaded")
 
+        #Homestuck act 1
         if comd == 'hit --act1':
             with open ('ACT1.txt') as a1:
                 act1 = a1.read()
@@ -590,12 +609,15 @@ def cmdhandling():
             url = 'cloudconvert.com/' + comd.replace('cc ', '').replace(' ', '-to-')
             webbrowser.get(chrome_path).open(url)
 
-        if comd == 'inf':
+        #Credits
+        if comd == 'cre':
             print("AnnaShell version " + str(version) + "\nDeveloped by Anna O.\nMy Twitter: @AguSedoo\nMy Github: anna-bannanna\nMy Stackoverflow: 18298990\nMy Reddit: u/AguSedo")
 
+        #Restart shell (Seems to not work when file was executed from terminal)
         if comd == "restart":
             os.execv(sys.executable, ['python'] + sys.argv)
         
+        #Send custom notification
         if comd == "notif send":
             tll = input('Enter notification title: ')
             msg = input('Enter notification message: ')
@@ -605,7 +627,7 @@ def cmdhandling():
                 app_icon = str(home) + 'annash.ico',
                 timeout = 50,
             )
-
+        #Sbahj easy access
         if comd.startswith('sbahj '):
             if '--random in comd':
                 page = random.randint(1, 54)
@@ -613,7 +635,8 @@ def cmdhandling():
             else:
                 page = comd.replace('sbahj ', '')
                 webbrowser.get(chrome_path).open('https://www.homestuck.com/sweet-bro-and-hella-jeff/' + page)  
-
+                
+        #Toggle quiet startup
         if comd == 'quietstartup':
             if quietstartup == 'off':
                 qss = 'on'
@@ -624,6 +647,7 @@ def cmdhandling():
             qs.write(qss)
             qs.close()
 
+        #Toggle between simple and full ps1
         if comd == 'ps1':
             if ps2 == 'simple':
                 ps11 = 'full'
@@ -634,13 +658,14 @@ def cmdhandling():
             ps3.write(ps11)
             ps3.close()
 
+        #Self explanatory
         if comd == 'shut pc down':
             os.system("shutdown -s -t 1")
 
 
 
 
-
+        #Command history
         hs = open(str(home) + 'ansh-history.txt', 'a')
         hs.write('\n' + str(comd))
         hs.close()
