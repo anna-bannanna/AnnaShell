@@ -1,0 +1,2603 @@
+Homestuck
+13/04/09
+SBURB BETA
+A young man stands in his bedroom. It just so happens that today, the 13th of April, 2009, is this young man's birthday. Though it was thirteen years ago he was given life, it is only today he will be given a name!
+
+What will the name of this young man be?
+
+Enter name.
+13/04/09
+
+ZOOSMELL POOPLORD
+
+TRY AGAIN, SMARTASS
+Try again.
+13/04/09
+
+✓ JOHN EGBERT
+Examine room.
+13/04/09
+Your name is JOHN. As was previously mentioned it is your BIRTHDAY. A number of CAKES are scattered about your room. You have a variety of INTERESTS. You have a passion for REALLY TERRIBLE MOVIES. You like to program computers but you are NOT VERY GOOD AT IT. You have a fondness for PARANORMAL LORE, and are an aspiring AMATEUR MAGICIAN. You also like to play GAMES sometimes.
+
+What will you do?
+
+John: Quickly retrieve arms from drawer.
+13/04/09
+Your ARMS are in your MAGIC CHEST, pooplord!
+
+Remove CAKE from MAGIC CHEST.
+13/04/09
+Out of sympathy for John's perceived lack of arms, you pick up the CAKE for him and put it on his BED.
+
+John: Quickly retrieve arms from MAGIC CHEST.
+13/04/09
+captchalogue x2
+You retrieve your FAKE ARMS from the chest. You use these for HILARIOUS ANTICS.
+
+You CAPTCHALOGUE them in your SYLLADEX. You have no idea what that actually means though.
+
+There are other items in the chest.
+
+John: Examine contents of chest.
+13/04/09
+captchalogue x2
+
+Colonel Sassacre's DAUNTING TEXT OF MAGICAL FRIVOLITY AND PRACTICAL JAPERY
+
+Harry Anderson's WISE GUY
+In here you keep an array of humorous and mystical ARTIFACTS, each one a devastating weapon in the hands of a SKILLED MAGICIAN or a CUNNING PRANKSTER.
+
+You are neither of these things.
+
+Among the ARTIFACTS are: TWO (2) FAKE ARMS [CURRENTLY CAPTCHALOGUED IN YOUR SYLLADEX], ONE (1) PAIR OF TRICK HANDCUFFS, ONE (1) STUNT SWORD, ONE (1) MAGICIAN'S HAT, ONE (1) PAIR OF BEAGLE PUSS GLASSES, SEVERAL (~) SMOKE PELLETS, SEVERAL (~) BLOOD CAPSULES, and ONE (1) COPY OF COLONEL SASSACRE'S DAUNTING TEXT OF MAGICAL FRIVOLITY AND PRACTICAL JAPERY, and ONE (1) COPY OF HARRY ANDERSON'S "WISE GUY", BY MIKE CAVENEY.
+
+Some of this stuff may come in handy at some point. For now, you decide to just take the SMOKE PELLETS.
+
+John: Captchalogue smoke pellets.
+13/04/09
+sylladex::captchalogue deck
+You stow the SMOKE PELLETS on one of your CAPTCHALOGUE CARDS in your SYLLADEX.
+
+You still aren't totally sure what that means, but you are starting to get the hang of the vernacular at least.
+
+You have two empty CAPTCHALOGUE CARDS remaining.
+
+John: Equip fake arms.
+13/04/09
+You aren't totally sure if "EQUIP" is a verb copasetic with the abstract behavioral medium in which you dwell, but you give it a try anyway.
+
+Unfortunately, you cannot access the FAKE ARMS! Their card is underneath the one you just used to captchalogue the SMOKE PELLETS. You will have to use the pellets first in order to access the arms. But this is probably unadvisable, since you'd just make your room lousy with smoke!
+
+Your SYLLADEX'S FETCH MODUS is currently dictated by the logic of a STACK DATA STRUCTURE. You were never all that great with data structures and you find the concept puzzling and mildly irritating.
+
+But with any hope, perhaps you will advance new, more practical FETCH MODI for your SYLLADEX with a little more experience.
+
+John: Examine Problem Sleuth Poster.
+13/04/09
+Is it even possible to get any more hard boiled than that? You really doubt it. This poster was one of your wisest purchases.
+
+There is a nice spot on the wall next to it. You've been meaning to hang another poster there soon.
+
+John: Read note on drawer.
+13/04/09
+
+HAPPY BIRTHDAY SON.
+
+I AM SO PROUD OF YOU.
+This note is rich with the aromas of FATHERLY AFTERSHAVES AND COLOGNES.
+
+Beside the note is a ROLLED UP POSTER.
+
+John: Take poster.
+13/04/09
+Another BIRTHDAY ARTIFACT. You wonder what is printed on the poster.
+
+You'll need some way to hang it on your wall.
+
+John: Acquire hammer and nails. They will come in handy.
+13/04/09
+You first place the HAMMER into your SYLLADEX.
+
+But now all of your CAPTCHALOGUE CARDS are full. You wonder what will happen if you try to take the NAILS?
+
+You guess it doesn't hurt to try.
+
+John: Take nails.
+13/04/09
+You captchalogue FOUR (4) NAILS into the top card, and push all the ARTIFACTS down a card.
+
+The FAKE ARMS are pushed entirely out of the deck!!!
+
+Oh well. They're probably completely useless anyway. But you probably don't want to do that again, unless you want to drop the SMOKE PELLETS and suffer the consequences.
+
+In any case, you now feel like you have gathered enough things to get down to business and do some really important stuff. The next thing you do will probably be exceptionally meaningful.
+
+John: Squawk like an imbecile and shit on your desk.
+13/04/09
+This is the dumbest idea you've had in weeks!!!
+
+STUPID STUPID STUPID.
+
+And yet the polished surface of your desk...
+
+It beckons.
+
+John: Combine the nails and hammer.
+14/04/09
+You MERGE the top two cards.
+
+The HAMMER and NAILS are now captchalogued on the same card and can be used together.
+
+John: Use hammer/nails on poster.
+14/04/09
+You use the HAMMER and NAILS card IN CONJUNCTION with the card beneath it.
+
+John: Nail poster to wall.
+14/04/09
+FRED SAVAGE  HOWIE MANDEL
+
+little
+monsters
+You use the HAMMER, NAILS, and POSTER on the blank space on the wall.
+
+It's glorious. Exactly what you wanted. The old man really came through this time.
+
+John: Examine Con Air poster.
+14/04/09
+CAGE  CUSACK
+
+A JERRY BRUCKHEIMER PRODUCTION
+
+    The most dangerous criminals in the
+        world are about to take flight.
+            Only one man can stop them.
+
+CON AIR
+PUT THE BUNNY BACK IN THE BOX.
+
+I SAID, PUT THE BUNNY BACK IN THE BOX.
+
+WHY COULDN'T YOU PUT THE BUNNY BACK IN THE BOX?
+
+John: Examine Deep Impact poster.
+14/04/09
+DEEP IMPACT
+Morgan Freeman's genteel, homespun mannerisms were perfect qualities for a president residing over a crisis.
+
+OCEANS RISE. CITIES FALL. HOPE SURVIVES.
+
+WOW.
+
+Films about impending apocalypse fascinate you. Plus, a black president??? Now you've seen everything!
+
+John: Examine calendar.
+14/04/09
+APRIL
+
+10: BETA! [x]
+13: ☺
+You've marked your birthday, the 13th of April. Another day you marked was supposed to be the arrival date for the highly touted SBURB BETA LAUNCH.
+
+It's been three days already. It's starting to become a sore subject with you.
+
+John: Eat cake.
+14/04/09
+Alert : ▪ ▪ ▪ 
+You are sick to death of cake!!! You've been eating it all day. And you have no intention of clogging your SYLLADEX with it either. The CAKE stays put for now.
+
+You hear a notice from your COMPUTER. Someone is messaging you.
+
+John: Examine incoming message.
+15/04/09
+[SYSTEM]
+
+[TYPHEUS]
+
+[PESTERCHUM]
+
+[pff.^CAKE]
+
+[FUCK FUCK FUCK.^CAKE]
+
+[AAAAAAAAAAAAAUUUUUUUUUUUUUUUGH.~ATH ]
+
+[ACTUATE] [PESTERCHUM] | 04/13 16:13
+You pull up to your COMPUTER. This is where you spend most of your time. You decorated your desktop with some rather handsome WALLPAPER which you made yourself. You are really proud of it.
+
+Your desktop is also littered with various PROGRAMMING PROJECT FILES. You are so bad at programming sometimes you wonder why you even bother with it.
+
+Your PESTERCHUM application is flashing. Someone is trying to get in touch with you.
+
+John: Open Pesterchum.
+15/04/09
+PESTERCHUM 6.0
+
+CHAT CLIENT
+
+CHUMROLL :
+☺ turntechGodhead
+- tentacleTherapist
+- gardenGnostic
+[PESTER!]
+
+MYCHUMHANDLE :
+☺ ectoBiologist
+
+MOOD :
+☺ CHUMMY ✓
+☺ BULLY
+☺ PALSY
+☺ PEPPY
+☺ CHIPPER
+☹ RANCOROUS
+Only one of your CHUMS is logged in. He's sent you a message.
+
+John: Open message.
+15/04/09
+:: turntechGodhead ::
+
+PESTERLOG :
+
+-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:13 --
+
+TG: hey so what sort of insane loot did you rake in today
+
+[PESTER!]
+pesterlog
+-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:13 --
+
+TG: hey so what sort of insane loot did you rake in today
+EB: i got a little monsters poster, it's so awesome. i'm going to watch it again today, the applejuice scene was so funny.
+TG: oh hell that is such a coincidence i just found an unopened container of apple juice in my closet it is like fucking christmas up in here
+EB: ok thats fine, but i just have one question and then a word of caution. have you ever seen a movie called little monsters starring howie mandel and fred savage?
+TG: but
+TG: the seal on the bottle is unbroken
+TG: are you suggesting someone put piss in my apple juice at the factory
+EB: all im saying is don't you think monster howie mandel has the power to do something as simple as reseal a bottle?
+EB: try using your brain numbnuts.
+TG: why did the fat kid or whoever drank it know what piss tasted like
+TG: i mean his reaction was nigh instantaneous
+EB: it was the 15th day in a row howie mandel peed in his juice.
+TG: ok i can accept that
+TG: monster B-list celebrity douchebags are cunning and persistent pranksters
+TG: also fred savage has a really punchable face
+TG: but who cares about this lets stop talking about it
+TG: did you get the beta yet
+EB: no.
+EB: did you?
+TG: man i got two copies already
+TG: but i dont care im not going to play it or anything the game sounds boring
+TG: did you see how it got slammed in game bro????
+EB: game bro is a joke and we both know it.
+TG: yeah
+TG: why dont you go check your mail maybe its there now
+EB: alright.
+John: Look out window.
+15/04/09
+You see the view of your yard from your window.
+
+Hanging from the tree is your TIRE SWING. In a kid's yard, a tree without a tire swing is like a proper gentleman without a monocle. That is to say, HE CAN HARDLY BE CONSIDERED A TERRIBLY PROPER GENTLEMAN AT ALL.
+
+And there beside your driveway is the mailbox.
+
+John: Examine mailbox.
+15/04/09
+The little red arm-swingy-dealy thing or whatever it is called is flipped up!
+
+What the hell is that thing called anyway. You do not have time for these semantics. The red flippy-lever thing means you have new mail. And that means the beta might be here!
+
+John: Go outside and check mailbox.
+15/04/09
+You are about to hurry down stairs when you hear a car pull into the driveway. It looks like your DAD has returned from the grocery store.
+
+Oh great. He is beating you to the mail.
+
+John: Forget it. Check mail later.
+15/04/09
+Alert : ▪ ▪ ▪ 
+If you go down stairs to get it, he will likely monopolize hours of your time. You decide to chill out up here for a while until the dust settles.
+
+Sometimes you feel like you are trapped in this room. Stuck, if you will, in a sense which possibly borders on the titular.
+
+And now your chum is pestering you again. The clockwork of friendship turns ceaselessly, operating the swing-lever dealies of harassment in perpetuity!
+
+Whatever. The dude can just hold his damn horses.
+
+John: Examine games on CD rack.
+16/04/09
+BARD
+QUEST
+
+THE CAPER HAVERS
+
+PROBLEM
+SLEUTH
+
+AND  
+IT   
+DON'T
+STOP 
+
+?
+
+GHOSTBUSTERS II
+MMORPG
+
+KONAMI
+little
+monsters
+(Original
+ Nintendo
+ Seal of 
+ Quality)
+
+HARRY ANDERSON
+CALL          
+MY            
+BLUFF         
+You've put countless manhours into this assortment of quality titles.
+
+John: Read COLONEL SASSACRE'S DAUNTING TEXT.
+16/04/09
+Colonel
+Sassacre's
+
+DAUNTING TEXT
+OF
+MAGICAL FRIVOLITY
+AND
+PRACTICAL JAPERY
+You decide to consult with the Colonel's bottomless wisdom. Good grief this thing is huge. It could kill a cat if you dropped it.
+
+But to really dig into this hefty book, you will have to captchalogue it. You are not sure you are ready to logjam your other ARTIFACTS beneath it just yet.
+
+John: Captchalogue fake arms again.
+16/04/09
+What did you just say?? You don't want to clog up your...
+
+Oh, Jesus. In a momentary lapse of concentration, you accidentally captchalogue the arms again.
+
+John: Set Pesterchum status to "bully".
+16/04/09
+☺ turntechGodhead
+You don't think the situation is quite dire enough to go all the way to "RANCOROUS", but you still feel the PESTERCHUM client should reflect your mood change in some way.
+
+"BULLY" will have to do. You guess.
+
+This unsurprisingly does nothing whatsoever.
+
+Oh, right, you forgot your chum is still pestering you.
+
+John: Answer chum.
+16/04/09
+:: turntechGodhead ::
+PESTERLOG :
+
+TG: is it there
+TG: plz say yes
+pesterlog
+TG: is it there
+TG: plz say yes
+TG: maybe you can play with TT shes been pestering me all day about it
+TG: shes mackin on me so hard all the time i start to feel embarrassed for her
+TG: i mean not that i can blame her or anything
+EB: yes, it is understandable because you are really attractive. i am attracted to you.
+TG: thank you
+EB: jk haha.
+EB: no, i don't have it yet.
+EB: my dad has the mail and i guess i have to go get it from him and see if it's there.
+EB: and i've been busy spending all afternoon shitting around with my stupid sylladex.
+EB: it's so frustrating.
+TG: whats your modus
+EB: what?
+TG: how do you retrieve artifacts from it
+EB: oh. like one at a time i guess. and if i put too much in, something falls out.
+TG: stack?? hahahahahaha
+EB: what is yours?
+TG: hash map
+TG: my bro taught me a few tricks he basically knows everything and is awesome
+EB: what the hell is that?
+TG: you should probably brush up on your data structures
+EB: i guess.
+TG: did you at least allocate your strife specibus
+EB: no.
+TG: it could free up a card for you
+TG: plus let you attack stuff whenever things get too hot to handle
+TG: which is never
+TG: what have you got
+EB: well, i've got a hammer but it's trapped under some arms.
+TG: wow you really suck at this dont you
+TG: just get rid of the arms and then allocate the hammer to the specibus
+EB: how?
+TG: i dont know just use the arms on any old thing and see if it works
+John: Combine fake arms with cake.
+16/04/09
+You stick the FAKE ARMS in the CAKE on your bed.
+
+This definitely makes the CAKE at least 300% more hilarious. You're sure COLONEL SASSACRE would know the precise index of elevated hilarity.
+
+John: Allocate hammer to strife specibus.
+16/04/09
+kind abstrata
+
+pizzactrkind
+batkind
+rollpinkind
+plungerkind
+yoyokind
+scissorkind
+peprsprykind
+chainsawkind
+crowbarkind
+broomkind
+pokerkind
+icepickkind
+golfclubkind
+[hammerkind]
+jumpropekind
+shovelkind
+hatchetkind
+spoonkind
+statuekind
+spatulakind
+scrwdrvrkind
+bladekind
+pistolkind
+lampkind
+stungunkind
+ballkind
+rakekind
+plankkind
+glovekind
+
+forkkind
+canekind
+curlironkind
+chainkind
+knifekind
+tablelegkind
+shotgunkind
+needlekind
+peprmillkind
+dumbbellkind
+hckystckkind
+vacuumkind
+mopkind
+trophykind
+fncysntakind
+ladlekind
+cordkind
+ironkind
+sawkind
+cleaverkind
+iceskatekind
+wrenchkind
+umbrellakind
+plungerkind
+hosekind
+bookkind
+bustkind
+spadekind
+pipekind
+
+nailgunkind
+hairdyrkind
+lcrsstckkind
+thrwstarkind
+tongskind
+razorkind
+fireextkind
+branchkind
+bowlgpinkind
+bombkind
+woodwindkind
+staplerkind
+riflekind
+sandlstkkind
+paddlekind
+bowkind
+barbwirekind
+dartkind
+marblekind
+plierkind
+fireworkkind
+chiselkind
+aerosolkind
+shoekind
+pippetkind
+fankind
+brasskind
+rockkind
+scythekind
+You check the back of your STRIFE SPECIBUS for the KIND ABSTRATUS you have in mind for it.
+
+John: Select "HAMMER".
+16/04/09
+captchalogue x1
+
+strife specibus
+
+sylladex::strife deck
+hammerkind
+Your STRIFE SPECIBUS has been ALLOCATED with the HAMMERKIND ABSTRATUS.
+
+The HAMMER has been moved from your CAPTCHALOGUE DECK to your STRIFE DECK.
+
+John: Report progress to TG.
+16/04/09
+pesterlog
+EB: ok, i did it.
+TG: hammerkind?
+EB: yeah.
+TG: ok that will be the permanent allocation for your specibus
+TG: i guess i should have mentioned that
+EB: uh...
+TG: hope you like hammers dude!
+EB: yeah, that's fine i guess. i can't imagine it's going to be all that relevant.
+John: Captchalogue Colonel's big book.
+17/04/09
+Now that you've got some space in your SYLLADEX to work with, you figure you might as well start squandering it immediately.
+
+Ordinarily this ridiculous book would be way too heavy to carry around in any practical way. You guess maybe this is one respect in which the cards present some convenience.
+
+John: Examine GameBro Magazine.
+17/04/09
+GAME
+BRO
+
+                     SBURB
+
+     Why the "Game of
+the Year" or whatever
+isn't as good as some
+   other stuff I like   
+       that's better.
+John: Read article.
+17/04/09
+GAME
+BRO
+FEATURE
+
+SBURB
+
+So ok. 
+
+SBURB is this game that
+a lot of cats seem hella
+pumped of. And this beta
+is sitting on my desk for
+review, so I'm like, yeah
+man I'll write something. 
+
+But I don't know. I'm like,
+so this is about houses or
+some noise? That's fine, I'm sure that's
+like fucking dynamite in a handbag for
+some brosephs. But all I'm saying is,
+when do you get to *thrash* anything?
+While you're playing house or some shit,
+are you ever in jeopardy of getting mud
+on your doll's dress or whatever from
+busting out, and I quote, "the mad
+stunts all wicked up-ins"?
+
+Know what I'm saying, Bro-Yo Ma? I
+didn't actually play this game, but I gave
+it 1.5 hats out of 5 hats to keep it real. 
+
+At this point I'd like to give a shout out
+to my boy Dennis who was over the
+other day. We were going to chill in front
+of The Dark Knight and he was so
+psyched of it y'all.
+
+So this one time he was
+leaning against the screen
+door and the shit popped
+open, and the back deck
+was wet and he slipped
+down the steps and broke
+his thumb on the lawn. It
+wasn't a long fall, but hey I
+guess a thumb bone wasn't
+made for supporting the
+brunt of a huge useless tool
+against wet grass. We never did watch
+Dark Knight on account of Ron truck-
+ing his bawling candy-ass girth to the
+hospital. 
+
+But it's cool, I still got another watch
+in me, Brotel Rwanda.
+
+BRO-NOTES :
+Dennis  was  so
+wasted, ha ha. I
+mean damn.
+
+Rating for : SBURB
+[**] [* ] [  ] [  ] [  ]
+John: Captchalogue GameBro.
+17/04/09
+It might come in handy if you ever need something that burns easily.
+
+John: Captchalogue magician's hat.
+18/04/09
+You expend your final card on the MAGICIAN'S HAT.
+
+John: Get funny glasses too.
+18/04/09
+You don't have a free card in your SYLLADEX!
+
+However, you are able to MERGE the BEAGLE PUSS with the MAGICIAN'S HAT to create a CLEVER DISGUISE.
+
+John: Wear disguise to fool dad.
+18/04/09
+John? Who is this "John" you speak of? You are quite certain there has never been, nor ever will be...
+
+Yeah, this is a really shitty disguise.
+
+While you are wearing the items, they remain on the card, but it is temporarily removed from the deck, thus freeing up the cards beneath it.
+
+John: Leave room.
+18/04/09
+You exit into the HALLWAY.
+
+On one wall hangs a picture of a fella who sure knows how to have a laugh, a man after your own heart. You always thought he looked a lot like Michael Cera. But your DAD swears on the many HALLOWED TOMBS of Egypt that it is not. You're not sure about that though.
+
+On the other wall is one of your DAD'S stupid clowns. Or HARLEQUINS, as he is quick to correct anyone who would venture such brazen assumption.
+
+John: Go downstairs.
+18/04/09
+The accursed odor of fresh baking wafts into your newfound nostrils. Something is brewing in the KITCHEN. It must be the connivings of your arch nemesis, BETTY CROCKER, and the rich, buttery aroma of her plot stinks to high heaven.
+
+This mission is going to be more difficult than you imagined.
+
+John: Admire harlequins.
+18/04/09
+You check out the shelves of FANCIFUL HARLEQUINS.
+
+Look at this fucking garbage. You hate this stuff. Funny is funny, but your DAD sure can be a real cornball.
+
+Sometimes at night you pray for burglars.
+
+John: Examine fireplace.
+18/04/09
+A bright orange flame flickers in the FIREPLACE. It doesn't matter that it's April and not terribly chilly outside. In a home, a FIREPLACE needs a fire, because that's what FIREPLACE is for. A fire BELONGS in a FIREPLACE, dammit, cata(ptcha)gorically, at all times, without exception.
+
+As domestic myth of unaccountable origin holds, a home borrows the spirit of the flame for as long as it makes a guest of it, much as the moon takes liberty with the sun's rays.
+
+"The moon's an arrant thief, and her pale fire she snatches from the sun." -Mark Twain
+
+You are almost certain Mark Twain said that.
+
+John: Toss GameBro into fire.
+18/04/09
+It doesn't burn as quickly as you hoped.
+
+Each GAMEBRO MAGAZINE is guaranteed to be printed on 40% recycled asbestos. For big ups to Mother Earth, yo.
+
+John: Fondly regard cremation.
+18/04/09
+You examine the SACRED URN containing your departed NANNA'S ASHES.
+
+When your father gives her portrait a wistful glance now and then, you can tell it brings back painful memories. A tall bookshelf. A ladder. An unabridged COLONEL SASSACRE'S.
+
+He never wants to talk about it.
+
+John: Topple urn.
+18/04/09
+You clumsily mishandle the SACRED URN. Ash is everywhere.
+
+In retrospect, upon mulling cinematic tropes regarding ash-filled urns, this outcome was a virtual certainty.
+
+You'd probably better clean it up before DAD finds it.
+
+John: Combine father's pipe with clever disguise.
+18/04/09
+You think now would be a good time to beef up your CLEVER DISGUISE.
+
+John: Examine oversized gift.
+18/04/09
+CHAMP.
+
+YOU CAN DO
+ANYTHING IF YOU PUT
+YOUR MIND TO IT.
+
+I BELIEVE IN YOU.
+Contemplating what could be inside this package is sort of exciting, but it makes you a little nervous at the same time.
+
+John: Open large present.
+18/04/09
+Oh hell no.
+
+John: Captchalogue ashes.
+19/04/09
+First you prop the HARLEQUIN DOLL up on the couch. Having it in the middle of the floor sprawled out all akimbo like that struck you as unseemly.
+
+You captchalogue the ASHES to your available card.
+
+John: Combine ashes with urn.
+19/04/09
+You merge the SACRED URN with the ASHES.
+
+Most of the ASH is back in the URN, but it's a total mess. Really it probably would have been tidier if you just used a broom and dustpan.
+
+John: Put urn back.
+19/04/09
+No one will be the wiser.
+
+Except maybe for people with eyes.
+
+John: Go get fake arms again.
+19/04/09
+Alert : ▪ ▪ ▪ 
+You just got another BRILLIANT idea for something to do with those pointless arms. You pry them out of the CAKE and captchalogue them.
+
+Looks like PESTERCHUM is acting up again.
+
+John: Examine 3rd and 4th walls of room.
+19/04/09
+John: Check Pesterchum.
+19/04/09
+☺ tentacleTh...
+Another one of your chums is messaging you.
+
+John: Check message.
+19/04/09
+:: tentacleTherapist ::
+PESTERLOG :                               
+-- tentacleTherapist [TT] began pestering
+ectoBiologist [EB] at 16:26 --           
+
+TT: I understand you have recently come  
+into possession of the beta release of   
+"The Game of the Year", as featured in   
+respectable periodicals such as GameBro  
+Magazine.                                
+pesterlog
+TT: I understand you have recently come into possession of the beta release of "The Game of the Year", as featured in respectable periodicals such as GameBro Magazine.
+EB: that's an ugly rumor.
+EB: whoever told you that is a filthy liar.
+EB: and you should probably stop hitting on him all the time or whatever.
+TT: I can't control myself.
+TT: I must have a weakness for insufferable pricks.
+EB: anyway i still haven't checked the mail, my dad has it.
+EB: i'm trying to go get it from him, so brb
+TT: John.
+EB: what?
+TT: You're wearing one of your disguises now, aren't you?
+TT: You are typing to me right now while wearing something ridiculous.
+EB: no, why would you even think that??
+EB: that's so stupid.
+TT: Ok.
+TT: Why don't you go get the game from your father?
+EB: alright, wish me luck.
+EB: oh, btw...
+EB: jk I was wearing a funny disguise this whole time.
+EB: gotcha! hehehehe
+TT: I know, John.
+John: Go back downstairs.
+19/04/09
+You can now execute that brilliant idea you had.
+
+There should be just enough FROSTING on the FAKE ARMS to serve as an adequate adhesive.
+
+John: Attach arms to doll.
+19/04/09
+Hehehehehehehehe.
+
+You don't care what COLONEL SASSACRE says, that makes it AT LEAST a million percent funnier.
+
+John: Inspect burnt paper on the floor.
+20/04/09
+BROBLERONE
+
+(ADVERTISEMENT)
+You put this back in the fire where it belongs.
+
+John: Throw present wrap in fire.
+20/04/09
+As long as you're cleaning up...
+
+John: Captchalogue doll.
+20/04/09
+You can carry hefty items, but that thing is just way too big. Get real!
+
+Besides, you don't even want it.
+
+John: Read Colonel Sassacre's text.
+20/04/09
+COLONEL
+
+FROM
+GEO SOULEGEL(?)
+
+3? & 40 CENTRE ST, NEW YORK  No 2078 INS. $20.00 per 1000 net
+   5? 5th AVE. CHICAGO, ILL      No 2079 OUTS.  0.00             
+
+ALSO BLANK
+
+THE CREEPY-CRAWLIES!
+
+Hell's bells, we are having a mighty
+sporting time of it!
+
+Hold fast my intrepid fellow prank-
+smiths! We've merely nicked the mahogany
+of our japing chests.
+
+If I may direct the incisive ogle of your
+beagle puss to the wriggling regency of
+rubber bugs, plastic parasites, squirming
+serpents, pliable pests, and every such
+order and phyla of creepy-crawlie!
+
+Land sakes alive, we are cooking with
+petrol now!
+
+In further exhibits we shall dwell on
+artifice useful to your exploits. Is your
+pappy's rod and reel handy? What about a
+bit of iron cord; it shouldn't prove
+elusive. Bring those wriggling rascals to
+life, and set the nerves of some old maid
+to the wreck of Hesperus!
+
+Do you have a bothersome aunt who never
+seems troubled to find ways with your
+sunny afternoon hours? A board, splintery
+fence - a bucket of whitewash perhaps?
+
+By gum you'll fix her wagon!
+
+And what of that tawny gent who puts his
+lackadaisical lean near the sarsaparilla
+font? You'll have that listless octoroon
+find the spring in his step just yet!
+You thought about consulting the text to determine exactly how hilarious the doll is now.
+
+But this text is way too big to navigate in a timely fashion. You decide to forget it.
+
+John: Find dad and retrieve mail.
+20/04/09
+The door on the left leads to the KITCHEN, from which the smell of baking wafts -- a powerful aroma which could lift an especially portly hobo off his feet.
+
+The door on the right leads to the STUDY, where your DAD spends a lot of time.
+
+He could be in either room. Where will you go?
+
+John: Go in the study.
+21/04/09
+It doesn't look like he's in here right now.
+
+John: Examine father's desk.
+21/04/09
+THE SERIOUS JESTER
+On the desk is a DECK OF PLAYING CARDS, one of your DAD'S PIPES, the April issue of THE SERIOUS JESTER magazine, and a stray CAPTCHALOGUE CARD.
+
+There is also a CAN OF PEANUTS on the desk. Ha ha, oh DAD. You won't be falling for THAT one again any time soon.
+
+A severe peanut allergy is a terrible affliction to cope with.
+
+John: Upgrade costume with hat from hat rack.
+21/04/09
+You swap the MAGICIAN'S HAT with the BOWLER HAT.
+
+This disguise is somewhat less funny, but A LOT more distinguished looking.
+
+John: Combine second pipe with clever disguise.
+21/04/09
+Your DAD maintains numerous pipes around the household. A father without a pipe is like a strapping roughneck without a toothpick. That is to say, HE IS A RATHER PISS-POOR EXCUSE FOR A ROUGHNECK IF YOU ASK ME.
+
+You'd rather not take the PIPE, though. The first one tastes bad enough as it is.
+
+How you suffer for your comedy.
+
+John: Examine captchalogue card.
+21/04/09
+THE    
+SERIOUS
+JESTER 
+Yes!!! This will be perfect for expanding the space in your SYLLA...
+
+John: Captchalogue captchalogue card.
+21/04/09
+ARGH!!!
+
+[S] John: Play haunting piano refrain.
+21/04/09
+(Pages including sound will be preceded by [S] in the command.)
+
+John: Play 52 Pick-Up.
+22/04/09
+You play the prankster's favorite card game, even though you are alone in the room, thus rendering it an especially foolish version of Solitaire.
+
+SO STUPID. Look at this mess.
+
+The peanut gallery over there sure is getting a kick out of it. You are allergic to their scorn.
+
+John: Attempt to leave the house.
+22/04/09
+Hi-C ECTO COOLER
+You go back into the LIVING ROOM and contemplate checking the mailbox outside. You think perhaps you should exhaust all possibilities before plunging headlong into a DAD encounter.
+
+Your TELEVISION is currently airing a COMMERCIAL.
+
+John: Exit.
+23/04/09
+You exit the house.
+
+John: Check mail.
+23/04/09
+Predictably, the mailbox is empty. You have already been scooped by your father.
+
+[S] ==>
+24/04/09
+HOMESTUCK
+The streets are empty. Wind skims the voids keeping neighbors apart, as if grazing the hollow of a cut reed, or say, a plundered mailbox. A familiar note is produced. It's the one Desolation plays to keep its instrument in tune.
+
+It is your thirteenth birthday, and as with all twelve preceding it, something feels missing from your life. The game presently eluding you is only the latest sleight of hand in the repertoire of an unseen riddler, one to engender a sense not of mirth, but of lack. His coarse schemes are those less of a prankster than a common pickpocket. His riddle is Absence itself. It is a mystery dispersing altogether, like the moon's faint reflection, with even one pebble of inquiry dropped in its black well. It is the most diabolical riddle of all.
+
+"Absence diminishes little passions and increases great ones, as wind extinguishes candles and fans a fire." -Walt Whitman
+
+Yes, you are certain Walt Whitman said that. One hundred percent positive.
+
+You have a feeling it's going to be a long day.
+
+==>
+24/04/09
+John: Leave a surprise for the mailman.
+24/04/09
+N...
+
+No!
+
+John: See if your father left the mail in the car.
+24/04/09
+The door is locked and your DAD has the CAR KEYS. You peer in through the driver's side window.
+
+You don't see any mail, but you do see a GREEN PACKAGE. There is also something underneath it that looks like a slip of paper.
+
+Could these items have come in the mail? You don't see anything else that's usually in the mail, like bills and coupons. Maybe your DAD forgot to take this stuff inside.
+
+John: Spy in the kitchen.
+24/04/09
+You try to get a gander through the KITCHEN WINDOW, but you can't see a whole lot! It seems your DAD has been doing so much baking, the glass has steamed up.
+
+God he is so weird.
+
+But you can see what's on the table just beside the window. It looks like the mail is there! Included among it is a RED PACKAGE, some BILLS, your DAD'S PDA, and an envelope that appears to be suspiciously labeled with the SBURB LOGO. Could it be???
+
+Unfortunately, the window is locked.
+
+John: Go back into the kitchen.
+24/04/09
+You have no other choice. You are going in.
+
+CLEVER DISGUISE, it's time to work your magic.
+
+[S] John: Enter.
+27/04/09
+==>
+27/04/09
+JOHN: !
+Your DAD sees right through your costume! You don't know what you were even thinking with this foolish ruse!!!
+
+You unequip the CLEVER DISGUISE. Your DAD wields a dreaded ARTIFACT OF CONFECTION. He stands between you and the mail.
+
+There is only one way to settle this.
+
+[S] STRIFE!
+28/04/09
+STRIFE!
+
+> AGGRIEVE:
+AUTO-PASTRY!
+
+> ABJURE:
+GUARDIAN RUBRIC: CODDLEBRAND
+DOTESMITE!
+John: Retrieve the package and flee to your room!
+29/04/09
+> ABSCOND
+You cannot ABSCOND! This pesky GUARDIAN is blocking your path! You will need to engineer some sort of distraction.
+
+And now he brandishes yet another ARTIFACT OF CONFECTION! The man is ruthless.
+
+You'd better brace for impact in the most comedically striking fashion possible.
+
+John: Equip disguise for defense.
+29/04/09
+BEAGLE AEGIS
+The BEAGLE AEGIS absorbs the brunt of the treat. Looks like DAD will enjoy the prankster's gambit on that exchange, as is usually the case.
+
+John: Captachalogue pie tin.
+29/04/09
+You take PIE TIN and unequip the BEAGLE PUSS.
+
+Everything in your SYLLADEX is pushed back a card. The SMOKE PELLETS are ejected from the deck.
+
+Yes! This could be just the distraction you were...
+
+==>
+29/04/09
+Nothing happens.
+
+What a huge letdown.
+
+John: Take the cake!
+29/04/09
+ > AGGRIEVE
+ > ABJURE  
+[> ACCEDE] 
+ > ABSCOND 
+"When two great forces oppose each other, the victory will go to the one that knows how to yield." -Oscar Wilde
+
+Wise words by a man who likely could resist everything but temptation.
+
+The CAKE forces COLONEL SASSACRE'S TEXT out of your SYLLADEX.
+
+==>
+29/04/09
+Sassacre you beautiful bastard.
+
+Now's your chance!!!
+
+John: Abscond.
+30/04/09
+Now that DAD is busy placating the SMOKE DETECTOR, you can safely sneak away.
+
+John: Take PDA.
+30/04/09
+You snag your DAD'S PDA. Maybe later you'll switch the background image to something hilarious as a prank. Besides, it may come in handy later.
+
+Your spare CAPTCHALOGUE CARD is forced out of the SYLLADEX, and consequently integrated with the deck. You now have five cards to work with.
+
+John: Take package.
+30/04/09
+This RED PACKAGE is addressed to you.
+
+John: Take envelope.
+30/04/09
+You got the SBURB BETA!!!
+
+John: Exit kitchen.
+30/04/09
+John: Get cake on couch.
+01/05/09
+You captchalogue the CAKE on the couch, expelling the PIE TIN from the bottom card.
+
+John: Combine the cakes to make a double decker cake.
+01/05/09
+You then merge the two CAKES across all five cards.
+
+Everything in your SYLLADEX is smushed between the CAKES. Why don't you think these things through first??
+
+John: Retreat upstairs!
+02/05/09
+You pause at the juncture and head down the hall. You are going to need something to clean up the mess you are about to make by dissecting this CAKE.
+
+To the left is the BATHROOM. To the right is your DAD'S ROOM. It is locked, and you are forbidden from ever entering. He has secrets.
+
+John: Go to bathroom and grab a towel.
+02/05/09
+You enter the BATHROOM. You can see your BACK YARD from the window. The jewel in its crown is the SWING SET which has provided you with years of joy. There is also a SPRING-MOUNTED POGO-RIDE, which has been responsible for more than one painful injury, and has provided you with years of lament.
+
+On the sink is your DAD'S RAZOR. On the rack to the side is a FRESH TOWEL.
+
+John: Remove PDA, envelope and package from cake.
+02/05/09
+You take the RAZOR and use it to perform surgery on the CAKE.
+
+You take the TOWEL and clean off the extracted goods.
+
+John: Retrieve your items.
+02/05/09
+The items force the MANHANDLED CAKE into the TOILET.
+
+And just like that, your SYLLADEX is full again. God this thing is annoying.
+
+John: Go to bedroom.
+02/05/09
+Alert : ▪ ▪ ▪ 
+Alert : ▪ ▪ ▪ 
+John: Admire "Failure to Launch" poster.
+03/05/09
+Jodie Fo...
+Matthew McConaug...
+
+A TIME TO KILL
+
+matthew mcconaughey
+sarah jessica parker
+failure to launch
+You're not usually into chick-flicks, but Matthew McConaughey's cool charisma could salvage any heap of smoldering wreckage.
+
+This is your "McConaughey Wall", a casual shrine to an amazing actor. The film above that one is a lot better, you think.
+
+CAN YOU SEE HER? I WANT YOU TO PICTURE THAT LITTLE GIRL. [chokes up] NOW IMAGINE SHE'S WHITE.
+
+You got us Matthew! Your smooth talking exposed our latent racism! Damn you are good!
+
+[S] John: Check Pesterchum.
+03/05/09
+☺ gardenGno...
+☺ turntechGo...
+pesterlog
+-- gardenGnostic [GG] began pestering ectoBiologist [EB] at 16:34 --
+
+GG: hi happy birthday john!!!!! <3
+GG: helloooooo??
+GG: ok i will talk to you later!!! :D
+
+-- gardenGnostic [GG] ceased pestering ectoBiologist [EB] at 16:56 --
+
+
+-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 16:40 --
+
+TG: hey GG is looking for you why are you even so popular all of a sudden
+TG: is today some sort of special occasion or something
+TG: did you do something to curry favor with ladies
+TG: did you break your leg on a puppy or some shit
+TG: dude what are you doing
+-- turntechGodhead [TG] is now an idle chum! --
+EB: i discovered a comet that is going to destroy the earth, and it was named after me.
+EB: now i am famous, and everyone wants to talk to me a lot.
+TG: no stop
+TG: just no
+TG: dont talk about your awful stupid movies or make references to them
+TG: your gross man-bro crush on matt macconahay is an unsavory thing to behold
+EB: mcconaughey.
+TG: sounds like a noise a horse would make
+TG: ie dumb
+TG: equally dumb are all those pictures of that clown youve got hanging up
+EB: those are my dad's.
+TG: i was talking about nick cage
+EB: oh, what?! no man, cage is sweet. so sweet.
+TG: ha ha so lame
+TG: you dont even like him ironically or anything this is like for real isnt it
+TG: hahaha
+EB: i do things ironically sometimes.
+EB: what about what i sent you for your birthday?
+TG: no those are awesome
+EB: what? no, they're stupid, which was the joke. the IRONIC joke. get it?
+EB: wait...
+EB: you're actually wearing them, aren't you?
+TG: im wearing them ironically
+TG: because theyre awesome
+TG: the fact that theyre ironic makes them awesome
+TG: and vice versa
+TG: are you taking notes on how to be cool?? jesus get a fucking pen
+EB: you do realize they touched stiller's weird, sort of gaunt face at some point.
+TG: ew yeah
+TG: oh well
+TG: anyway speaking of which
+TG: did you get the mail
+EB: yeah.
+TG: did there happen to be a package there
+EB: yeah, there's a big red one.
+TG: you should probably open it
+EB: i would, but it's trapped under the sburb beta, so i will probably open it after i install the beta.
+TG: oh man the beta came
+EB: yeah! wanna play it?
+TG: haha no way
+EB: why not!
+TG: it sounds so HELLS of boring just get TT to play it she is all about that
+EB: where'd she go.
+TG: her internet is blinking in and out i guess
+TG: probably be back online soon
+TG: oh and christ in a sidecar are you still using the stack modus???
+TG: seriously dude
+TG: you need to BONE UP on your data structures that shit is just ridiculous
+EB: ok, i will.
+John: Open browser and go to mspaintadventures.com
+04/05/09
+TYPHEUS
+BOOKMARKS ▸
+ADDRESS : http://www.mspaintadventures.com
+GO!
+
+MS
+MAP | LOG | SEARCH | FAQ || SAVE | LOAD || SHOP | EXTRAS || FORUMS | CONTACT | ANDREW
+
+MSPAINT ADVENTURES
+You decide to space out on the computer for a while before doing anything important.
+
+You open the TYPHEUS web browser and direct it to what is indisputably the most amazing website ever created.
+
+==>
+04/05/09
+ADDRESS : http://www.mspaintadventures.com?s=3
+
+MSPAINT ADVENTURES
+
+Midnight Crew
+
+You are members of a sinister gang called the Midnight Crew. Your nefarious plots are serpentine in their complexity. Your schemes, convoluted. You are planning a heist in your underground hideout.
+
+What will you do?
+The new adventure is ok, but you're not sure if you like it as much as the last one.
+
+John: Install the Sburb beta.
+05/05/09
+You decide it's time for less meta, and more beta.
+
+You insert the CD and install the SBURB BETA.
+
+==>
+05/05/09
+SBURB CLIENT
+
+SBURB version 0.0.1
+
+© SKAIANET SYSTEM INCORPORATED. ALL RIGHTS RESERVED.
+
+SBURB client is running.
+
+Waiting for server to establish connection...
+What the fuck is this.
+
+John: Bone up on data structures.
+05/05/09
+- DATA STRUCTURES
+- discrete mathematics
+- ^CAKE
+- ~ath
+- DIS*
+- AUTOMATA
+You go to your CLOSET, where you keep a lot of clothes and an array of handy COMPUTER PROGRAMMING GUIDES.
+
+John: Read Data Structures book.
+05/05/09
+"I think my rage just crapped its pants" -FUNNYUNCLE
+
+DATA STRUCTURES for ASSHOLES
+By Buckminster Funnyuncle
+
+Your ignorance just made me throw up a little. Get a clue, you computer-illiterate piece of shit.
+
+FREE FETCH MODUS IN BACK!!!
+You're not sure you really want to dig into this huge tome. It looks really boring. And kind of ornery.
+
+Maybe you'll just check out that free modus instead.
+
+John: Get free Fetch Modus.
+05/05/09
+fetch modus
+FIFO
+queue
+You turn to the back inside cover, where a free FETCH MODUS is included in a plastic sleeve.
+
+This one is dictated by the logic of a QUEUE DATA STRUCTURE, operating on a "First In, First Out" method, rather than a "First In, Last Out" method of a STACK.
+
+John: Apply Fetch Modus to Sylladex.
+05/05/09
+Items captchalogued in your SYLLADEX are no longer immediately accessible. You can only use the item on the bottom card, and must wait for items on upper cards to be pushed back to it.
+
+For instance, the RED PACKAGE is now inaccessible. You can only use the RAZOR at the moment.
+
+This modus doesn't strike you as a significant upgrade to your previous one. In fact, it almost seems more inconvenient. You figure you might as well give it a chance though.
+
+John: Switch back to Stack Modus.
+06/05/09
+? fetch modus ?
+FILO
+stack ?
+You suddenly wonder if this is even possible. You don't even remember if you ever had a physical card for the STACK MODUS.
+
+You find this all to be a little abstract and you'd prefer not to think about it too much.
+
+John: Put down razor.
+06/05/09
+Put it...
+
+Down?
+
+...
+
+You're not quite sure you understand.
+
+John: Pick up two items.
+06/05/09
+You captchalogue one of the CAKES.
+
+You've finally found a use for all these loitering pastries: DEAD WEIGHT.
+
+John: Get other cake.
+06/05/09
+matthew mcconaughey
+sarah jessica parker
+failure to launch
+The second CAKE causes the RAZOR to launch out the front of your SYLLADEX.
+
+Oh good lord.
+
+THAT BEAUTIFUL FACE.
+
+You wish the RAZOR would have failed to launch.
+
+John: Get more stuff.
+06/05/09
+You open your MAGIC CHEST and captchalogue one of your favorite books of all time, WISE GUY BY MIKE CAVENEY.
+
+There goes the FRESH TOWEL.
+
+John: Might as well grab those cuffs.
+06/05/09
+You take the TRICK HANDCUFFS, expelling the PDA like a bullet.
+
+==>
+06/05/09
+Oh God dammit.
+
+John: Open up that package!
+07/05/09
+TO : EB  
+FROM : TG
+You examine the package. It is from one of your internet chums.
+
+It's bound in packing tape though. You'll need something sharp to open it.
+
+Ah, of course! The RAZOR! It's all so simple, you wonder why you didn't...
+
+John: Get razor.
+07/05/09
+BONK
+John: Pick up package again.
+07/05/09
+Let's take this from the top.
+
+John: Captchalogue glass shards.
+07/05/09
+CRASH
+You take three GLASS SHARDS in quick succession and duck for cover.
+
+Your SYLLADEX rains devastation on your room from above.
+
+And now that your cards are packed with glass, you probably don't want to do that again any time soon.
+
+==>
+07/05/09
+You should probably go get that stuff before you forget.
+
+John: Use the razor on the red package.
+08/05/09
+You open the package. There is something suspicious inside.
+
+Something suspiciously dirty and smelly.
+
+==>
+08/05/09
+It is a STUFFED BUNNY. Much like the one held hostage briefly by Malkovich's Cyrus "The Virus" while taunting hard-luck protagonist Cameron Poe. And strikingly similar to the one scooped up from the soot of a burning Vegas strip by Cage's Poe and offered to his daughter, a gesture symbolic of a tattered exterior surrounding a heart of gold. Poe wasn't much to look at. But he was a good man.
+
+But no, it is not merely LIKE that bunny. According to this NOTE OF AUTHENTICITY, it is the VERY SAME BUNNY.
+
+This is so awesome.
+
+John: Check status of Sburb beta.
+08/05/09
+Alert : ▪ ▪ ▪ 
+Alert : (Sburb-logo)
+It looks like your computer is trying to get your attention.
+
+John: Look at monitor.
+09/05/09
+SBURB CLIENT
+
+SBURB version 0.0.1
+
+Ⓒ  SKAIANET SYSTEMS INCORPORATED. ALL RIGHTS RESERVED.
+
+SBURB client is running.
+
+A SBURB host user is attempting to connect with you.
+
+Client has established connection with host.
+
+Press [ENTER] when ready.
+
+> _
+
+[☺ tentacleT...]
+John: Check Pesterchum window.
+09/05/09
+::tentacleTherapist::
+
+PESTERLOG
+
+-- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08 --
+
+TT: It looks like you managed to retrieve the beta. Excellent.
+TT: I'm going to try to connect.
+pesterlog
+-- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08 --
+
+TT: It looks like you managed to retrieve the beta. Excellent.
+TT: I'm going to try to connect.
+EB: whoa ok but i just got the most awesome present.
+TT: The rabbit?
+EB: SO SWEET.
+TT: I've heard tales of this wretched creature often. Its Homeric legend is practically ensconced in the fold of my personal mythology by now.
+EB: ha ha, what?
+TT: Why don't we focus on the matter at hand?
+EB: oh the game, ok.
+EB: i don't really know how this works. what am i even looking at here?
+TT: You are running the client application. I am running the server, so I am the host user. I have established a connection with you. This is sufficient for us to play the game.
+EB: oh, ok then.
+TT: Why don't we get started?
+John: Press [ENTER]
+09/05/09
+[S] ==>
+09/05/09
+
+* Derived from a transcript by ShadowOfFate
+
+Transforming Soffits
+Reorganizing Keys
+Formalizing Immersion Joints
+Justifying Kick Extractors
+Advising Aggregates
+Managing Elbows
+Recasting Connectors
+Achieving Aluminum Trowels
+Officiating Disks
+Exhibiting Absolute Spigots
+Progressing Coil Hydrants
+Jerry-building Reflectors
+Informing Casters
+Inventing Rubber Hoists
+Performing Wrenches
+Judging Chalk Adapters
+Upgrading Ignition Paths
+Regrowing Flashing
+Recommending Ratchets
+Approving Barriers
+Sweeping Impact Fillers
+Sewing Mirrors
+Detailing Collectors
+Enforcing Measures
+Distributing Systems
+Presenting Plugs
+Interwinding Registers
+Piloting Ash Diffusers
+Gathering Cranks
+Supplying Eave Pockets
+Undertaking Scroll Stops
+Accelerating Straps
+Designing Fittings
+Protecting Diamond Boilers
+Logging Downspouts
+Correlating Shingles
+Uniting Mallets
+Qualifying Electrostatic Lifts
+Sharing Clamps
+Obtaining Circular Fluids
+Ranking Foundation Gauges
+Sensing Miter Brackets
+Originating Space Networks
+Translating Drills
+Regulating Guards
+Selecting Gable Padding
+Utilizing Pellet Dowels
+Reconciling Artifacts
+Altering Pulleys
+Shedding Space Filters
+Determining Vents
+Representing Mortar
+Remaking Flash Rakers
+Supporting Funnels
+Typecasting Rotary Chocks
+Expressing Junctures
+Resetting Auxiliary Vises
+Professing Strip Treads
+Inlaying Matter Trowels
+Questioning Drivers
+Forming Edge Fittings
+Sketching Blanks
+Overshooting Spark Breakers
+Rewriting Controls
+Playing Tunnels
+Inventorying Buttons
+Enduring Joist Handles
+Effecting Ratchet Bibbs
+Unwinding Couplings
+Forsaking Vapor Conduits
+Defining Sockets
+Calculating Heaters
+Raising Grids
+Administering Tiles
+Measuring Resources
+Installing Ignition Remotes
+Extracting Corners
+Manufacturing Ventilators
+Delegating Consoles
+Treating Mounting Stones
+Enacting Jig Deflectors
+Intensifying Alleys
+Improvising Cargo
+Pinpointing Bobs
+Prescribing Arc Masonry
+Structuring Metal Chucks
+Symbolizing Lathes
+Activating Plumb Kits
+Adapting Coatings
+Fixing Channels
+Expediting Cordage
+Planning Compressors
+Enlisting Hangers
+Restructuring Keyhole Augers
+Shearing Ridge Hardware
+Collecting Reciprocating Bolts
+Maintaining Corrugated Dimmers
+Whetting Hole Collars
+Conducting Mandrels
+Comparing Assets
+Compiling Sealants
+Completing Paths
+Composing Equivocation Wheels
+Computing Dampers
+Conceiving Electrostatic Treatment
+Ordering Cotter Grates
+Organizing Ties
+Orienting Ladders
+Exceeding Materials
+Targeting Thermocouples
+Demonstrating Emery Stock
+Expanding Latch Bases
+Training Wardrobe Adhesives
+Overcomming Fasteners
+Streamlining Storm Anchors
+Navigating Springs
+Perfecting Turnbuckles
+Verifying Gate Pegs
+Arbitrating Arithmetic Lifts
+Negotiating Outlets
+Normalizing Strips
+Building Surface Foggers
+Checking Key Torches
+Knitting Grinders
+Mowing Planers
+Offsetting Stencils
+Acquiring Bulbs
+Adopting Rivets
+Observing Avenues
+Ascertaining Coaxial Grommets
+Slinging Wing Winches
+Instituting Circuit Generators
+Instructing Wicks
+Integrating Pry Shutters
+Interpreting Immersion Lumber
+Clarifying Coils
+Classifying Wood Bits
+Closing Cogs
+Cataloging Matter Strips
+Charting Holders
+Conceptualizing Push Terminals
+Stimulating Supports
+Overthrowing Shaft Spacers
+Quick-freezing Connectors
+Unbinding Ground Hooks
+Analyzing Eyes
+Anticipating Gateways
+Controlling Proposition Rollers
+Converting Power Angles
+Coordinating Staples
+Correcting Benders
+Counseling Joist Gaskets
+Recording Gutter Pipes
+Recruiting Drains
+Rehabilitating Rafter Tubes
+Reinforcing Washers
+Reporting Guard Valves
+Naming Freize Sprues
+Nominating Rings
+Noting Straps
+Doubling Nailers
+Drafting Circuit Hoses
+Dramatizing Flanges
+Splitting Framing Compounds
+Refitting Stems
+Interweaving Patch Unions
+Placing Sillcocks
+Sorting Slot Threads
+Securing Mode Cutters
+Diverting Catharsis Plates
+Procuring Load Thresholds
+Transferring Syllogism Twine
+Directing Switch Nuts
+Referring Time Spools
+Diagnosing Knobs
+Discovering Locks
+Dispensing Hinges
+Displaying Hasps
+Resending Arc Binders
+Retreading Grooves
+Retrofitting Aesthetics Portals
+Seeking Stocks
+Shrinking Wormholes
+Assembling Blocks
+Assessing Divets
+Attaining Lug Boxes
+Auditing Nescience Passages
+Conserving Strikes
+Constructing Braces
+Contracting Saw Catches
+Serving Instantiation Irons
+Recognizing Fluxes
+Consolidating Fuse Calipers
+Mapping Shims
+Reviewing Chop Groovers
+Scheduling Lag Drives
+Simplifying Hoists
+Engineering Levels
+Enhancing Tack Hollows
+Establishing Finishing Blocks
+Estimating Adhesives
+Evaluating Mortar
+Examining Auto Turnbuckles
+Processing Foggers
+Servicing Avenues
+Transcribing Existence Rivets
+Revising Consoles
+Separating Absolute Stencils
+Budgeting Sheet Grommets
+Preparing Kits
+Realigning Cartesian Mandrels
+Painting Fasteners
+Filing Grout Hangers
+Finalizing Atma Augers
+Formulating Couplings
+Identifying Sillcocks
+Imagining Materials
+Inducing Shutters
+Influencing Wheels
+Licensing Chocks
+Lifting Extrinsic Mallets
+Overdrawing Ratchets
+Overlaying Ventilators
+Overriding Cardinal Soffits
+Specifying Element Aggregates
+Systemizing Divets
+Shaping Pockets
+Publicizing Aether Remotes
+Reducing Slot Stops
+Governing Archetype Dimmers
+Monitoring Assets
+Launching Manifestation Systems
+
+
+SBURB
+
+
+==>
+12/05/09
+Select
+Revise
+Deploy
+Phernalia Registry
+Grist Cache
+Explore Atheneum
+Alchemy Excursus
+[Mouseover the interface buttons. -AH]
+
+TT: Select magic chest.
+12/05/09
+TT: Zoom out.
+12/05/09
+TT: Drop chest.
+12/05/09
+pesterlog
+EB: whoa, what are you doing??
+TT: Sorry. I'm just getting a feel for the controls.
+EB: is my magic chest on the roof now??
+TT: Yes.
+EB: :(
+TT: I will try to be more careful next time.
+John: Get the card.
+12/05/09
+You find your missing STACK FETCH MODUS, and quickly reapply it to your SYLLADEX. You can now opt for either the STACK or QUEUE modus any time.
+
+You toggle between your FETCH MODI with gleeful abandon.
+
+==>
+12/05/09
+It looks like your DAD is leaving again for more baking supplies. You're relieved to have the house to yourself again, if only for a few minutes.
+
+You just hope he doesn't notice the MAGIC CHEST on the roof. Or all the shit you threw out the window, for that matter.
+
+TT: Select stuff in yard and move it back into room.
+12/05/09
+pesterlog
+EB: hey, do you think you could do me a favor?
+EB: can you grab all that stuff outside my broken window and bring it in for me?
+TT: I'll give it a shot.
+EB: thx!
+TT: No luck.
+TT: It appears to be out of range. I'm guessing it is too far away from you, the "player".
+EB: :C
+TT: Select John.
+12/05/09
+You cannot select a PLAYER!
+
+JOHN abjures the meddlesome cursor.
+
+TT: Select bunny.
+12/05/09
+TT: Put the bunny back in the box.
+12/05/09
+TT: Revise room.
+14/05/09
+==>
+14/05/09
+TT: Open Phernalia Registry.
+14/05/09
+Cruxtruder
+Totem Lathe
+Alchemiter
+TT: Deploy Totem Lathe.
+14/05/09
+Totem Lathe
+John: Examine Totem Lathe.
+14/05/09
+JOHN: ?
+You don't know what the heck this thing does, but it looks neat!
+
+TT: Open Grist Cache
+14/05/09
+Cache Limit: 20 → Build Grist: 16/20
+pesterlog
+TT: It seems expanding the dimensions of your room cost us some "Build Grist".
+TT: But deploying the lathe did not appear to incur any expense.
+TT: It looks like certain objects are freebies, probably to help you set up the game.
+EB: wow, ok.
+EB: what do they do?
+TT: I think it's up to you to find out.
+TT: All I can do is drop stuff in your house, and move it around, apparently.
+EB: how do i move stuff around? it sounds fun!
+TT: I don't think you can as the client. You will need to install the server application.
+TT: You should have received both in separate envelopes. I am running both on my computer right now.
+EB: what??
+TT: Did you get another envelope in the mail?
+EB: no!
+TT: Once you install the server and establish a connection, I'm sure you will be able to manipulate my environment in the same manner.
+TT: Are you sure you didn't get it?
+EB: oh man.
+EB: i think i might know where it is.
+==>
+14/05/09
+pesterlog
+TT: Now that your room is bigger, why don't you move to the far corner?
+TT: It will extend the range of the cursor, and I can reach the items.
+TT: Which... you threw out the window for some reason?
+EB: good idea!
+TT: What have you been doing in here all afternoon, anyway?
+EB: ugh, i was fussing with my retarded sylladex.
+EB: but i think i have it under control now.
+EB: what modus do you use?
+TT: I like to use trees.
+EB: oh no, that sounds so awkward.
+TT: It's not exceptionally practical.
+TT: But I think they are elegant.
+John: Stand in corner.
+14/05/09
+TT: Deploy Cruxtruder.
+15/05/09
+Pre-punched Card
+Alchemiter
+Cruxtruder
+TT: Deploy Alchemiter.
+15/05/09
+Punch Designix
+Pre-punched Card
+Alchemiter
+pesterlog
+EB: why is the floor shaking?
+EB: are you dropping more stuff in my house?
+TT: Yes. Two more large gizmos.
+EB: sweet!
+EB: what is with all these big contraptions?
+TT: If I had to guess, they appear to facilitate a sort of system involving punch card-based alchemy.
+EB: huh.
+EB: to what end?
+EB: i mean what are we supposed to be doing in this game?
+TT: That remains to be seen.
+TT: Maybe you should go investigate?
+John: Get PDA.
+15/05/09
+SERIOUS BUSINESS
+
+The following matters have been submitted in a frank and forthright
+manner for pipefan413's judicious appraisal.
+
+f grayslacks66 - 17:24
+
+Decided to return home for fresh tie. Soiled tie will be laundered
+immediately upon return
+
+f wellPressedAttire - 17:23
+
+Use ballpoint pen to roll up tip of cloth. Extract pen. Press rolled
+cloth against ceramic surface, e.g. restroom sink. In future: consider
+repositioning hat hook and/or coffee pot.
+
+f officeurchin1280 - 17:23
+
+Photographic documentation of incident?
+
+f grayslacks66 - 17:22
+
+Was posturing unevenly to reach for hat on wall hook. Tip of tie
+slipped in open mouth of pot. Duration of "dunk": approx. 3 seconds.
+
+f 2busy4this - 17:22
+
+pl elab on 'incident'
+
+f grayslacks66 - 17:21
+
+Need counsel on removing coffee from necktie. Incident occurred 45
+seconds ago. Beverage essences rapidly settling into fabric.
+
+[SYSTEM]
+You grab the PDA, switching back to STACK MODUS so it is readily accessible.
+
+The interface is oddly sterile. No hilarious clown wallpapers or anything like that. (Oops, you mean harlequin wallpapers.)
+
+The SERIOUS BUSINESS application is open. It seems your DAD uses it to keep tabs on various acquaintances... his fellow street performers, maybe?
+
+You guess the performing arts must be pretty serious business after all.
+
+John: Install Pesterchum.
+15/05/09
+PESTERCHUM 6.0
+
+CHAT CLIENT
+
+CHUMROLL :
+- turntableGodhead
+☺ tentacleTherapist
+- gardenGnostic
+
+[PESTER!]
+
+MYCHUMHANDLE :
+☺ ectoBiologist
+
+MOOD :
+[☺ CHUMMY    ] [☺ BULLY ✓   ]
+[☺ PALSY     ] [☺ PEPPY     ]
+[☺ CHIPPER   ] [☹ RANCOROUS ]
+
+[PESTERCHUM]
+[SB]
+[SYSTEM]
+This should be useful. Now you can keep tabs on your chums while you wander around the house.
+
+John: Go out to balcony.
+15/05/09
+pesterlog
+EB: hey, i'm out on the balcony now.
+EB: i am messaging from my dad's pda.
+TT: The one you threw into the yard?
+EB: no, i am telling you.
+EB: it jumped out of my sylladex like a frightened weasel.
+TT: What were you doing with it in the first place?
+TT: I am not sensing a lot of regard for the personal property of others.
+TT: Is this how your pent-up frustration with your father manifests itself?
+EB: what? no.
+EB: those were all accidents.
+EB: please take your psycho-babblery elsewhere, miss!
+TT: Your bathroom is a mess.
+TT: Did you do that too?
+EB: oh man, see this isn't cool.
+EB: all this snooping nonsense!
+TT: There's a cake in the toilet.
+EB: yes. there is.
+TT: I'm tempted to clean it up for you.
+EB: ok, if that will satisfy your weird ocd complex then go ahead.
+TT: My Obsessive-Compulsive Disorder complex?
+TT: Can a disorder also be a complex?
+EB: in your case, probably!
+TT: Sounds complicated.
+EB: anyway...
+EB: i am going to have a look at this enormous platformy thing you put on the balcony.
+John: Examine Alchemiter in a cautious manner.
+15/05/09
+You have no idea what to do with this thing. You can't find any controls for it.
+
+Having exhausted all other possibilities, you just decide to stand on it.
+
+This isn't very cautious of you, actually.
+
+John: Look through telescope.
+16/05/09
+It is a clear, sunny day. Nothing out of the ordinary to report. At least, not beyond the walls of your own home.
+
+TT: Grab the soiled toilet.
+16/05/09
+16/20 → 14
+pesterlog
+TT: Whoops.
+EB: whoops what?
+==>
+16/05/09
+pesterlog
+EB: what was that noise?
+EB: is this something i should go investigate?
+TT: No, I have it under control.
+TT: You can keep playing with your telescope.
+John: Investigate.
+16/05/09
+pesterlog
+EB: augh!
+TT: I think I can patch it up.
+TT: Just give me a little space.
+TT: Why don't you go have a look at the Cruxtruder?
+EB: the what?
+TT: The thing I put in your living room.
+John: Hop down the hole.
+17/05/09
+You jump down to the UTILITY ROOM.
+
+John: Get sledgehammer and card.
+17/05/09
+strife specibus
+
+sylladex : strife deck
+
+hammerkind
+You take the SLEDGEHAMMER and the CAPTCHALOGUE CARD, combine the two, and quickly apply it to your STRIFE SPECIBUS.
+
+You think it's cool that things don't always have to be a federal fucking issue.
+
+==>
+17/05/09
+Alert : ▪ ▪ ▪ 
+It looks like another one of your chums is pestering you on your PDA.
+
+John: Answer chum.
+17/05/09
+pesterlog
+-- gardenGnostic [GG] began pestering ectoBiologist [EB] at 17:25 --
+
+GG: john did you get my package??
+EB: oh hey!
+EB: no, not yet.
+GG: darn! are you sure? it was in a green box.....
+EB: oh!
+EB: yes, but it is in my dad's car and he is still out at the store.
+EB: he should be back soon.
+GG: great!!! so what are you up to today?
+EB: i am up to my neck in this sburb stuff.
+EB: TT is making a royal mess of my house.
+GG: lol!
+GG: whats sburb??
+EB: oh, it is this game.
+EB: it's ok i guess. i'm still figuring it out.
+GG: whoa what was that?????
+EB: what was what?
+GG: there was a loud noise outside my house!!
+GG: it sounded like an explosion!!!!
+EB: wow, really?
+GG: i will go outside and look....
+EB: oh man, alright but be careful, ok?
+GG: i will! :)
+
+-- gardenGnostic [GG] ceased pestering ectoBiologist [EB] at 17:28 --
+John: Might as well check out the Cruxtruder.
+17/05/09
+pesterlog
+EB: oh hell no, you put this thing in front of the door?
+TT: There's a door there?
+EB: um, YEAH???
+TT: I didn't see it.
+TT: I just thought it fit nicely into that groove.
+EB: you mean you thought it was elegant?
+EB: ok well what do i do with this thing.
+EB: hello?
+EB: what are you doing up there now?
+==>
+17/05/09
+14/20 → 12
+pesterlog
+TT: Oh fuck.
+John: Examine wheel on the Cruxtruder.
+18/05/09
+When you turn the wheel, something seems to be pushing up from underneath the lid.
+
+But you aren't strong enough to make the lid come off!
+
+TT: Put bathtub in driveway.
+18/05/09
+CONNECTION LOST
+On the tub's journey to the driveway, the connection is interrupted.
+
+John: Scold TT.
+18/05/09
+pesterlog
+EB: you can see me, right.
+EB: tell me what is wrong with this picture.
+TT: Sorry. I keep losing the wireless signal.
+TT: Must be the weather.
+TT: I would look for a stronger signal in another part of the house, but I'd rather not risk an encounter with my mother.
+TT: I battled through her cloud of gin and derision once already this evening.
+EB: haha, yeah I hear you.
+TT: Yes. Cake, jesters, unfaltering love and support.
+TT: Quite a road to hoe there.
+TT: Though I suppose I'm complicit for not informing Social Services about your situation.
+EB: i know!
+EB: what about going outside?
+EB: maybe you could catch a neighbor's signal.
+TT: That presents the same problem.
+TT: Also, it's raining, remember?
+TT: And dark.
+EB: It's dark already?
+TT: Yes, the sun has already had its way with us here on the east coast.
+TT: Its lurid glare has moved on to younger timezones.
+EB: haha, um, ok.
+John: Hit Cruxtruder with sledgehammer.
+18/05/09
+pesterlog
+TT: Need some help?
+TT: Pick up sledgehammer.
+19/05/09
+==>
+19/05/09
+4:13
+==>
+19/05/09
+4:13 → :12 → :11 → :10
+pesterlog
+EB: what is this thing?
+EB: and what is that clock counting down to?
+TT: I've been looking at the GameFAQ walkthroughs to figure some of this stuff out.
+TT: Hold while I read further.
+EB: ok.
+TT: All of these walkthroughs are extremely short.
+TT: None progress much further than this point.
+EB: weird.
+EB: well, i mean it is a new game.
+TT: True.
+TT: Now that the lid is off, you will need to extrude some "Cruxite".
+John: Turn wheel again.
+19/05/09
+4:03 → 4:02 → 4:01
+You extrude ONE (1) CRUXITE DOWEL.
+
+John: Get cruxite.
+19/05/09
+pesterlog
+TT: I feel like we should be hurrying. That countdown is making me nervous.
+TT: John?
+TT: Oh. Your PDA is trapped under the cruxite now, isn't it.
+TT: Anyway, it looks like you are going to need this card too.
+TT: Deploy Pre-punched Card.
+19/05/09
+Pre-punched Card
+John: Get card.
+19/05/09
+A SHARD OF GLASS is expelled from the deck and maims the HARLEQUIN DOLL.
+
+John: Captchalogue fanciful harlequins.
+19/05/09
+You take TWO (2) FANCIFUL HARLEQUINS.
+
+The additional useless freight pushes your PDA to the last card. You then switch to the QUEUE MODUS so you can access the PDA.
+
+More glass shrapnel flies from the deck.
+
+==>
+19/05/09
+SPRITE: (textures)
+pesterlog
+EB: this thing keeps following me around.
+EB: i think it's trying to talk to me or something.
+TT: That is probably the "Kernelsprite".
+TT: It apparently needs to be "prototyped".
+TT: Twice, actually.
+TT: Whatever the hell that means.
+TT: These walkthroughs are horrendously written.
+EB: hmm, ok.
+EB: well, you are the one with the cursor so just do whatever you think is the right thing to do!
+EB: also, fix my bathroom.
+TT: Drop maimed harlequin into Kernelsprite.
+20/05/09
+[S] ==>
+21/05/09
+The KERNELSPRITE has been prototyped with the HARLEQUIN DOLL.
+
+==>
+21/05/09
+SPRITE: (spriteglyphs)
+pesterlog
+EB: i still can't understand this thing's gobbledygook.
+TT: That was only "Tier One Prototyping".
+TT: There is still another tier to the prototyping process.
+TT: Which for all we know merely advances this entity through increasingly esoteric states of linguistics.
+EB: the clock is ticking.
+EB: we don't have time for this asinine tomfoolery.
+TT: This unmitigated poppycock?
+EB: extravagant hogwash!
+EB: ok stop
+EB: stop typing whatever silly thing you're typing.
+EB: i'm going upstairs to the big platformy thing.
+TT: The alchemiter?
+EB: ??
+TT: Try to learn the lingo.
+John: Use pre-punched card with the alchemiter.
+21/05/09
+There is no slot for a card anywhere to be found on the ALCHEMITER!
+
+The KERNELSPRITE followed you upstairs.
+
+TT: Explore Atheneum.
+21/05/09
+Perfectly Generic Object
+2
+Acquiring a CRUXITE DOWEL seems to have populated the ATHENEUM with one item: a PERFECTLY GENERIC OBJECT.
+
+John: Captchalogue telescope.
+21/05/09
+You snatch the TELESCOPE from its TRIPOD. Who knows, it might be useful. But more importantly, it pushes the CRUXITE to the last card making it available for tinkering.
+
+The PDA is predictably jettisoned into the yard, over the neighbor's fence.
+
+John: Put cruxite on weird pattern on alchemiter.
+21/05/09
+You place the CRUXITE DOWEL on the ALCHEMITER'S small pedestal.
+
+Something is happening...
+
+==>
+21/05/09
+==>
+21/05/09
+1 → 2 → 3
+-2 → -4 → -6
+
+12/20 → 6
+You set the ALCHEMITER to cast THREE (3) PERFECTLY GENERIC OBJECTS for some reason, expending a total of 6 units of BUILD GRIST.
+
+These things look completely useless. What a waste!
+
+Out of the corner of your eye, you notice there's something in the sky.
+
+John: Switch modus and use telescope to inspect sky.
+22/05/09
+You switch back to STACK MODUS and get a closer look with your TELESCOPE.
+
+Whatever it is, the KERNELSPRITE seems particularly agitated about it.
+
+==>
+22/05/09
+==>
+22/05/09
+3:10 → :09 → :08 → :07 → :06 → :05 → :04 → :03 → :02 → :01 → :00
+==>
+22/05/09
+You're no astronomer, but its trajectory looks suspiciously head-on with your current perspective.
+
+This is a troubling development.
+
+John: High-five Kernelsprite.
+22/05/09
+You figure you've left him hanging long enough.
+
+John: Attempt to ingest a unit of build grist.
+23/05/09
+Made With Real Fruit
+EXCELLENT SOURCE
+OF VITAMIN C
+
+RE-DO YOUR RO-
+SWEEPSTAKES
+YOU COULD WIN $10,000
+
+Betty Crocker
+
+Fruit
+Gushers
+
+Rockin' Blue Raspberry
+It is tempting because they strongly resemble Rockin' Blue Raspberry Gushers. However, units of BUILD GRIST are a gaming abstraction and do not seem to exist on the physical plane!
+
+There is apparently no crisis so imminent that will deter you from contemplating idiotic and frivolous actions.
+
+==>
+23/05/09
+pesterlog
+TT: Your dad is getting home.
+TT: John?
+TT: What did you do with your PDA this time?
+TT: I'm working on the bathroom.
+TT: But we are running low on Build Grist.
+TT: Revise bathroom.
+23/05/09
+6/20 → 2
+==>
+23/05/09
+DAD: ?
+DAD: ?
+John: Run to your room and contact TT through Pesterchum.
+23/05/09
+Alert : ▪ ▪ ▪ 
+Alert : ▪ ▪ ▪ 
+Two chums have been trying to message you.
+
+John: Answer chums.
+23/05/09
+pesterlog
+TT: I'm working on the bathroom.
+TT: But we are running low on Build Grist.
+EB: oh man who cares about the bathroom, now there's a meteor heading for my house!!!
+TT: I see.
+TT: Do you suppose it has anything to do with the game?
+EB: i don't know, maybe! what do i do!
+TT: I think it's very likely.
+TT: The walkthroughs vaguely suggest an impending threat before they end.
+TT: The already poorly constructed sentences become even more curt and ambiguous.
+TT: As if written hastily and with a sense of alarm.
+TT: Actually, their dedication to updating the walkthrough under such circumstances is admirable.
+EB: wow, FASCINATING.
+EB: ??????
+TT: If the meteor is a game construct, I think the only thing to do is to proceed, and try to solve the dilemma on the game's terms.
+TT: Try using the lathe.
+TT: It says you can use the card on it, but isn't more specific than that.
+EB: ok i'll do that.
+TT: Really, it is a labor to read this drivel.
+TT: If I read any more my brain will need to be spoon-fed from a jar.
+TT: While it blows spit bubbles in a highchair.
+TT: I think I will write my own walkthrough.
+TT: That is, after we make sure you don't die.
+
+-- turntechGodhead [TG] began pestering ectoBiologist [EB] at 17:34 --
+
+TG: i heard you got the box
+TG: i hope you appreciate my heroic fatherly perseverance in getting it to you
+TG: in my rough and tumble dirty wifebeaterly sort of way
+TG: also i hope you appreciate how many no-talent douches had their mitts on that bunny before you
+TG: its like a grubby baton in some huge douchebag marathon
+TG: hey where are you
+EB: oh man, the bunny was awesome, but i don't have time to talk, i'm playing sburb and it's kind of a nightmare.
+EB: TT is breaking everything in my house.
+TG: dude i told you to steer clear of that game
+TG: and for that matter you should probably wash your hands of flighty broads and their snarky horseshit altogether
+EB: and now there's a meteor coming, and i'm not even joking about that!!!
+EB: it's like a big asteroid or comet or something.
+EB: in the sky.
+EB: heading right for my house!!!!!!!!
+TG: oh man
+TG: how big is it
+EB: i dunno.
+EB: big, i guess.
+EB: i gotta go!
+EB: we'll talk later if i am still alive and the earth isn't blown up.
+TG: like the size of texas
+TG: or just rhode island
+TG: theyre always throwing around these geographical comparisons to give us a sense of scale like it really means anything to us
+TG: but its like it doesnt matter its always just like: WOW THATS PRETTY FUCKING BIG
+TG: like mr president theres a meteor coming sir. oh yeah, how big is it? its the size of texas sir
+TG: OH SHIT
+TG: or, how big is it? its the size of new york city sir
+TG: OH SHIT
+TG: sir im afraid the comet is the size of your moms dick
+TG: OH SNAP
+TG: sir are you familiar with jupiter
+TG: you mean like the planet?
+TG: yeah
+TG: well its that big sir
+TG: hmm that sounds pretty big
+TG: i have a question
+TG: is it jupiter?
+TG: yes sir, earth is literally under seige by planet fucking jupiter
+TG: OH SHIT
+TG: anyway later
+John: Use pre-punched card on totem lathe.
+25/05/09
+You slip the PRE-PUNCHED CARD into a slot on the TOTEM LATHE. Above, the TOOL ARM deploys a configuration of chisels.
+
+Now you just need something to lathe.
+
+John: Take cruxite to totem lathe.
+25/05/09
+Cursing your lack of foresight, you return to the BALCONY for the CRUXITE DOWEL you left on the pedestal.
+
+You navigate the hallway leery of your DAD, who is presently puzzling over the new fixture in his hallway.
+
+==>
+25/05/09
+The perfect crime.
+
+==>
+25/05/09
+You retrieved the CRUXITE DOWEL.
+
+DAD just shrugs and heads back downstairs, presumably to do some more baking.
+
+If only he knew you were hard at work saving his ass.
+
+John: Use cruxite dowel on totem lathe.
+25/05/09
+You clamp the CRUXITE in the lathe.
+
+John: Activate lathe.
+25/05/09
+The lathe carves ONE (1) TOTEM.
+
+You take the TOTEM.
+
+==>
+25/05/09
+pesterlog
+EB: alright, i used the lathe to make this blue shapey thing.
+EB: now i guess i take it back to the alchemixer again?
+EB: hello???????
+-- tentacleTherapist [TT] is no longer connected! --
+EB: uh...
+==>
+25/05/09
+CONNECTION LOST
+==>
+25/05/09
+2:10 → :09 → :08 → :07 → :06 → :05 → :04 → :03 → :02 → :01 → :00
+==>
+26/05/09
+A young lady stands in her bedroom. Due to a violent storm, her house has just lost power, along with her wireless internet connection. This has severed her link to a popular video game she was playing with a young man at a critical moment. That young man is relying on this young lady to reestablish a connection somehow. This young lady named...
+
+Named...
+
+It's on the tip of your tongue. What was the name of this young lady again?
+
+Enter name.
+28/05/09
+FLIGHTY BROAD
+No, that wasn't it!
+
+One more time.
+28/05/09
+✓ ROSE LALONDE
+Examine room.
+28/05/09
+Your name is ROSE. As was previously mentioned you are without ELECTRICITY, although your LAPTOP COMPUTER still functions on BATTERY POWER. You have a variety of INTERESTS. You have a passion for RATHER OBSCURE LITERATURE. You enjoy creative writing and are SOMEWHAT SECRETIVE ABOUT IT. You have a fondness for the BESTIALLY STRANGE AND FICTITIOUS, and sometimes dabble in PSYCHOANALYSIS. You also like to KNIT, and your room is a BIT OF A MESS. And on occasion, if just the right one strikes your fancy, you like to play VIDEO GAMES with your friends.
+
+What will you do?
+
+Rose: Retrieve arms from the purple box.
+28/05/09
+The PURPLE PACKAGE'S contents are private! No one is allowed to look inside.
+
+Rose: Writhe like a flagellum and puke on your bed.
+28/05/09
+Ugh, what a terrible idea! The thought alone makes you sick to your stomach.
+
+Rose: Stroke writing journal and mutter, 'My precious...'
+28/05/09
+You would only resort to such an embarrassing activity while no one was watching!!!
+
+These journals are for your eyes only.
+
+Rose: Get violin.
+28/05/09
+You captchalogue the VIOLIN, storing it the ROOT CARD of your SYLLADEX.
+
+[S] Rose: Play a haunting refrain on the violin.
+28/05/09
+You waste approximately 40 seconds playing the violin while your friend is in peril.
+
+Nice time management skills there, sweetheart!
+
+John: Tell Liv Tyler you love her before impact.
+30/05/09
+Since your good for nothing friend is obviously not going to bail you out in time, you issue words of parting fondness to dear, sweet Liv. Oh, if only Affleck could have been the one to make the final sacrifice instead of her stubborn, blue collar, salt-of-the-earth father. Then she would fall into your arms for consolation, and YOU would be the one to make the deceased Bruce Willis proud.
+
+Rose: Captchalogue knitting supply bag.
+30/05/09
+You get the KNITTING BAG. It occupies the LEFT LEAF CARD under the VIOLIN, per the TREE MODUS'S alphabetical sorting method.
+
+K < V.
+
+Rose: Look out window.
+30/05/09
+Your panoramic window offers a view of your yard below, and the mausoleum housing your dead cat, JASPERS, who died when you were young. Your MOM had the structure erected with a spirit of scornful IRONY in response to your youthfully innocent request to hold a funeral for the animal. At least, that is how you have come to interpret the gesture in retrospect.
+
+You can also make out a silhouette of the LABORATORY next door, a facility which likely broadcasts a strong WIRELESS INTERNET SIGNAL. You may be able to connect to the signal from a different part of the house. Perhaps if you seek higher ground?
+
+Rose: Get laptop.
+30/05/09
+You take your LAPTOP and prepare to make the journey through the house.
+
+L < V. L > K.
+
+This causes the tree to be unbalanced, so your SYLLADEX auto-balances itself. Now the LAPTOP occupies the ROOT CARD, while the other two items comprise the LEAVES.
+
+K < L. V > L.
+
+Rose: Examine book on desk.
+31/05/09
+GRIMOIRE
+FOR SUMMONING THE
+ZOOLOGICALLY
+DUBIOUS
+This book is absolutely indispensable for enthusiasts of your ilk. Of which there are very few.
+
+Rose: Take book.
+31/05/09
+You take the GRIMOIRE.
+
+G < L, G < K.
+
+Rose: Go explore the house.
+01/06/09
+You leave your BEDROOM.
+
+Hanging just next to your door in the hallway is a painting of an EXQUISITE WIZARD. Your mother collects these awful things IRONICALLY. She must know how much you detest them, and there is no doubt in your mind she stores these dreadful things in the house to bother you.
+
+Down the hall to the right is the way to the OBSERVATORY. Perhaps you will be able to connect from up there?
+
+Your mother's room is also in that direction. You will have to watch your step.
+
+Rose: Tiptoe to observatory.
+01/06/09
+You approach a juncture in the hallway. Beyond the juncture is the OBSERVATORY.
+
+==>
+01/06/09
+Rose: Sneak by.
+01/06/09
+==>
+01/06/09
+This door leads up to the OBSERVATORY. You haven't ventured up there in quite some time.
+
+Rose: Go through door.
+02/06/09
+The door opens to an exterior walkway, leading to the observatory entrance.
+
+You've seen less inclement weather before. Oh the things you'll do to help out a friend.
+
+Rose: Hurry up to that observatory.
+02/06/09
+Rose: Try to connect!
+03/06/09
+You first put your LAPTOP down on the floor to get it situated.
+
+But removing it from the ROOT CARD causes all the branches and leaves to be severed! Your items are dumped unceremoniously on the floor.
+
+Rose: See what you can observe.
+04/06/09
+You're in a hurry, sure, but that doesn't mean you can't take moment to peek through the HUGE TELESCOPE.
+
+You find a gap in the clouds. It seems a flurry of smaller METEOROIDS is streaking steadily overhead. You're not sure what this means, but it is somewhat disconcerting.
+
+Rose: Stack laptop on Grimoire to maximize elevation.
+04/06/09
+GRIMOIRE
+You'll need every advantage you can get.
+
+Rose: Access laboratory wifi network.
+04/06/09
+CETUS
+
+http://www.gamefaqs.com/doswin/home/927614.html
+
+SBURB BETA
+
+Gamespot
+GameFaqs
+
+ Email  Password        
+[     ][        ][login]
+Sign up|Forgot Password?
+
+Search  [All Platforms] [go]
+
+Home | What's New | Contribute | Features | Boards | My Games | Answers | Help
+
+Platforms : DS | GBA | GameCube | PC | PS2 | PS3 | Wii | Xbox | Xbox 360 | All Systems
+
+PC → Miscellanous → Immersive Simulation
+
+Sburb Beta
+
+Home | Data | FAQs | Cheats | Images | My Games | Answers | Board | Check Prices
+
+Sburb Beta
+
+Page 1 of 176
+Back to : Bo-
+
+
+
+SBURB SERVER
+
+Lost connection with client.
+
+RECONNECTING...
+
+> _
+
+
+AVAILABLE WIRELESS NETWORKS
+
+SN_LAB0413      UNSECURED
+SN_LAB9687        SECURED
+SN_LAB1802        SECURED
+SN_LAB5565        SECURED
+
+
+SBURB SERVER
+
+Lost connection with client.
+
+RECONNECTING...
+
+Server has established connection with client.
+
+> _
+
+
+
+[HD]
+[scraps]
+[leavings]
+[detritus]
+There are several signals being broadcasted from the LABORATORY, each of relatively decent strength.
+
+One of them is mysteriously and quite conveniently UNSECURED, requiring no password.
+
+You select the signal, and reconnect to the game with John.
+
+==>
+04/06/09
+0:41 → :40 → :39 → :38 → :37 → :36 → :35 → :34 → :33 → :32 → :31
+pesterlog
+TT: I'm back.
+EB: hurry up and open my door!!!!!!
+EB: not that it even matters, i think i'm probably dead no matter what!!!!!!
+TT: Patience. You still haven't used the new totem.
+EB: ???
+TT: I believe it will create the item on the punch card.
+EB: so what is it, like an apple or something?
+EB: what good will that even do?
+TT: We'll see.
+TT: I've found no evidence that anyone has successfully created the item.
+TT: And the content of the card appears to be variable from session to session.
+TT: In one instance it was described as an "eggy loking thign" [sic].
+EB: do we have enough of those building jewels to make it?
+TT: According to the Atheneum, it is a free item.
+TT: This speaks to its importance, in my view.
+TT: Now off you go.
+Rose: Remove door from hinges.
+04/06/09
+2/20 → 0
+There goes the rest of your BUILD GRIST.
+
+Rose: Put bathtub back.
+05/06/09
+You probably should have just done this in the first place.
+
+John: Take totem to alchemiter.
+05/06/09
+Got to get those stupid blocks out of the way first!
+
+The KERNELSPRITE is getting awfully worked up about all this!
+
+Rose: Remove blocks.
+05/06/09
+You store the PERFECTLY GENERIC OBJECTS in your PHERNALIA REGISTRY, potentially to be deployed at a later time.
+
+==>
+05/06/09
+[S] John: Take bite of apple.
+07/06/09
+0:30 → :29 → :28 → :27 → :26 → :25 → :24 → :23 → :22 → :21
+→ :20 → :19 → :18 → :17 → :16 → :15 → :14 → :13 → :12 → :11
+→ :10 → :09 → :08 → :07 → :06 → :05 → :04 → :03 → :02 → :01
+END OF ACT 1
+07/06/09
+Years in the future, but not many...
+09/06/09
+A WAYWARD VAGABOND records a stuttering step in the sun-bleached dust.
+
+WV: ?
