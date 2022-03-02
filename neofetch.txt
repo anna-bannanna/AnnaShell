@@ -1,14 +1,14 @@
-                                ..,   anna@AnnaOS
+                                ..,   user@Computer
                     ....,,:;+ccllll   -----------------
-      ...,,+:;  cllllllllllllllllll   OS: Windows 10 Education x86_64
-,cclllllllllll  lllllllllllllllllll   Host: rklo0-y084
+      ...,,+:;  cllllllllllllllllll   OS: Windows
+,cclllllllllll  lllllllllllllllllll   Host: Computer
 llllllllllllll  lllllllllllllllllll   Kernel: 10.0.19041.1526
 llllllllllllll  lllllllllllllllllll   Shell: AnnaSH 0.1
-llllllllllllll  lllllllllllllllllll   Resolution: 1366x768
+llllllllllllll  lllllllllllllllllll   Resolution: 1920x1080
 llllllllllllll  lllllllllllllllllll   DE: Aero
 llllllllllllll  lllllllllllllllllll   WM: Explorer
                                       WM Theme: Custom
-llllllllllllll  lllllllllllllllllll   CPU: Intel Celeron N4120 (4) @ 1.10GHz
+llllllllllllll  lllllllllllllllllll   CPU: Amd ryzen 1 million
 llllllllllllll  lllllllllllllllllll   Memory: 8136MiB
 llllllllllllll  lllllllllllllllllll   
 llllllllllllll  lllllllllllllllllll
